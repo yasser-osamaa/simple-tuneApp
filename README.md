@@ -6,7 +6,9 @@ A new Simple Flutter project Learn How to Refact your Code and Using Map of List
 - Just Column To put My CustomWidget 'Container Widget' i used to when i Click it sound on <br>
 - Expanded Widget to make A good Responsive UI For All Screen<br>
 - InKwell Widget to make Container Clickable and used on Tap to make Action<br>
-- can use gesturedetector he work like InKwell to make Normal Widget Clickable <br>  
+- can use gesturedetector he work like InKwell to make Normal Widget Clickable
+- Used Map to Assign Data into Custom Widget And Make it easier in code   
+<br>  
 <br>
 
 ## Packages i Used to 
