@@ -7,7 +7,7 @@ A new Simple Flutter project Learn How to Refact your Code and Using Map of List
 - Expanded Widget to make A good Responsive UI For All Screen<br>
 - InKwell Widget to make Container Clickable and used on Tap to make Action<br>
 - can use gesturedetector he work like InKwell to make Normal Widget Clickable <br>  
-<br><br>
+<br>
 ## Packages i Used to 
 - audioplayers 6.0.0 for Playing some simple Audios
 ```
